@@ -1,4 +1,4 @@
-<img width="1155" height="656" alt="image" src="https://github.com/user-attachments/assets/0b9178e3-6883-4725-99bd-aaf76f1e2bc2" /># ADGM Corporate Agent — Streamlit Demo (with Google Gemini integration)
+# ADGM Corporate Agent — Streamlit Demo (with Google Gemini integration)
 
 
 This application is a sophisticated proof-of-concept for a corporate services agent, specifically tailored for **Abu Dhabi Global Market (ADGM)** compliance. It leverages a combination of rule-based checks, a local Retrieval-Augmented Generation (RAG) pipeline, and the Google Gemini API to automate the review of company incorporation documents.
@@ -9,9 +9,15 @@ The tool accepts multiple `.docx` files, classifies them, verifies them against 
 
 ## 🎥 Demo
 
-https://drive.google.com/file/d/1iN_J_5Rpsgip3o459yCDTxJu5O7Tk5r0/view?usp=sharing.
+*\<p align="center"\>https://drive.google.com/file/d/1iN_J_5Rpsgip3o459yCDTxJu5O7Tk5r0/view?usp=sharing.\</p\>*
 
+\<p align="center"\><img width="1632" height="976" alt="Screenshot 2025-08-11 164538" src="https://github.com/user-attachments/assets/cadf61ee-9c12-487c-8bdd-c0df33fd4b2c" />
 
+\<br\>
+\<em\>.\</em\>
+\</p\>
+
+-----
 
 ## ‎⭐ Core Features
 
