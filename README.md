@@ -8,16 +8,10 @@ The tool accepts multiple `.docx` files, classifies them, verifies them against 
 -----
 
 ## 🎥 Demo
-
-*\<p align="center"\>https://drive.google.com/file/d/1iN_J_5Rpsgip3o459yCDTxJu5O7Tk5r0/view?usp=sharing.\</p\>*
-
-\<p align="center"\><img width="1632" height="976" alt="Screenshot 2025-08-11 164538" src="https://github.com/user-attachments/assets/cadf61ee-9c12-487c-8bdd-c0df33fd4b2c" />
-
-\<br\>
-\<em\>.\</em\>
-\</p\>
-
------
+▶️ Demo Video
+<p align="center"> <a href="https://drive.google.com/file/d/1iN_J_5Rpsgip3o459yCDTxJu5O7Tk5r0/view?usp=sharing" target="_blank" rel="noopener noreferrer"> Watch the demo video on Google Drive </a> </p>
+📸 Screenshots
+<p align="center"> <img width="800" alt="Demo Overview" src="https://github.com/user-attachments/assets/78bb4422-d98a-4a70-ba02-f0f0eb5b1e3c" /> </p> <p align="center"> <img width="820" alt="Step 1: Upload & Parse" src="https://github.com/user-attachments/assets/47235e41-ac80-467a-88c7-dd9837c8c423" /> </p> <p align="center"> <img width="820" alt="Step 2: Classification & Detection" src="https://github.com/user-attachments/assets/3b08d936-86d0-4abc-a1b4-529969debb77" /> </p> <p align="center"> <img width="820" alt="Step 3: Compliance Analysis" src="https://github.com/user-attachments/assets/62b6e71f-c83b-47c6-b8e4-d84e0a7fd003" /> </p> <p align="center">
 
 ## ‎⭐ Core Features
 
